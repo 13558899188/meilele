@@ -1,0 +1,707 @@
+{
+	"jiajuShoppingData": [
+		{
+			"shopping_title": "卧室家具",
+			"shopping_type": [
+				{
+					"shopping_name": "床",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "床垫",
+					"myColor": ""
+				}, {
+					"shopping_name": "衣柜",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "卧室套装",
+					"myColor": ""
+				}
+			]
+		}, {
+			"shopping_title": "客厅家具",
+			"shopping_type": [
+				{
+					"shopping_name": "沙发",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "茶几/边桌",
+					"myColor": ""
+				}, {
+					"shopping_name": "电视柜",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "鞋柜",
+					"myColor": ""
+				}
+			]
+		}, {
+			"shopping_title": "餐厅家具",
+			"shopping_type": [
+				{
+					"shopping_name": "餐桌",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "餐椅",
+					"myColor": ""
+				}, {
+					"shopping_name": "餐边柜",
+					"myColor": ""
+				}, {
+					"shopping_name": "餐厅套装",
+					"myColor": ""
+				}
+			]
+		}, {
+			"shopping_title": "书房家具",
+			"shopping_type": [
+				{
+					"shopping_name": "书桌/书台",
+					"myColor": ""
+				}, {
+					"shopping_name": "书柜/书架",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "书房套装",
+					"myColor": ""
+				}
+			]
+		}, {
+			"shopping_title": "儿童家具",
+			"shopping_type": [
+				{
+					"shopping_name": "儿童床",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "儿童衣柜",
+					"myColor": ""
+				}, {
+					"shopping_name": "儿童椅",
+					"myColor": ""
+				}
+			]
+		}, {
+			"shopping_title": "户外/办公",
+			"shopping_type": [
+				{
+					"shopping_name": "吊篮/吊椅",
+					"myColor": ""
+				}, {
+					"shopping_name": "办公桌",
+					"myColor": "ShoppingRed"
+				}, {
+					"shopping_name": "办公椅",
+					"myColor": ""
+				}
+			]
+		}
+	],
+	"childContainer": [
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "床类",
+					"childRight": [
+						{
+							"child_type": "实木床",
+							"child_color": "childColor"
+						}, {
+							"child_type": "布艺床",
+							"child_color": ""
+						}, {
+							"child_type": "真皮床",
+							"child_color": ""
+						}, {
+							"child_type": "踏踏床",
+							"child_color": ""
+						}, {
+							"child_type": "高箱床",
+							"child_color": "childColor"
+						}, {
+							"child_type": "欧式床",
+							"child_color": ""
+						}, {
+							"child_type": "中式床",
+							"child_color": ""
+						}, {
+							"child_type": "美规床",
+							"child_color": "childColor"
+						}, {
+							"child_type": "排骨架床",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "床垫类",
+					"childRight": [
+						{
+							"child_type": "美国进口床垫",
+							"child_color": "childColor"
+						}, {
+							"child_type": "椰棕床垫",
+							"child_color": ""
+						}, {
+							"child_type": "乳胶床垫",
+							"child_color": ""
+						}, {
+							"child_type": "弹簧床垫",
+							"child_color": ""
+						}, {
+							"child_type": "3D床垫",
+							"child_color": ""
+						}
+					]
+				},
+				{
+					"child_left": "柜类",
+					"childRight": [
+						{
+							"child_type": "斗柜",
+							"child_color": ""
+						}, {
+							"child_type": "田园床头柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "田园床头柜",
+							"child_color": ""
+						}, {
+							"child_type": "斗柜",
+							"child_color": ""
+						}, {
+							"child_type": "趟门衣柜",
+							"child_color": "childColor"
+						}
+					]
+				},
+				{
+					"child_left": "更多分类",
+					"childRight": [
+						{
+							"child_type": "趟门衣柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "椰棕床垫",
+							"child_color": ""
+						}, {
+							"child_type": "乳胶床垫",
+							"child_color": ""
+						}, {
+							"child_type": "弹簧床垫",
+							"child_color": "childColor"
+						}, {
+							"child_type": "3D床垫",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "美国进口床垫",
+							"child_color": "childColor"
+						}, {
+							"child_type": "椰棕床垫",
+							"child_color": ""
+						},{
+							"child_type": "弹簧床垫",
+							"child_color": ""
+						}, {
+							"child_type": "3D床垫",
+							"child_color": "childColor"
+						}
+					]
+				}
+			]
+		},
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "沙发类",
+					"childRight": [
+						{
+							"child_type": "实木沙发",
+							"child_color": "childColor"
+						}, {
+							"child_type": "布艺沙发",
+							"child_color": ""
+						}, {
+							"child_type": "转角沙发",
+							"child_color": ""
+						}, {
+							"child_type": "欧式沙发",
+							"child_color": "childColor"
+						}, {
+							"child_type": "真皮沙发",
+							"child_color": ""
+						}, {
+							"child_type": "美式沙发",
+							"child_color": ""
+						}, {
+							"child_type": "中式沙发",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "茶几类",
+					"childRight": [
+						{
+							"child_type": "实木茶几",
+							"child_color": ""
+						}, {
+							"child_type": "方茶几",
+							"child_color": ""
+						}, {
+							"child_type": "玻璃茶几",
+							"child_color": "childColor"
+						}, {
+							"child_type": "大理石茶几",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "柜类",
+					"childRight": [
+						{
+							"child_type": "间厅/玄关柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "欧式电视柜",
+							"child_color": ""
+						}, {
+							"child_type": "客厅酒柜",
+							"child_color": ""
+						}, {
+							"child_type": "拉门衣柜",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "更多分类",
+					"childRight": [
+						{
+							"child_type": "卧室套装",
+							"child_color": "childColor"
+						}, {
+							"child_type": "妆台镜/妆凳",
+							"child_color": ""
+						}, {
+							"child_type": "穿衣镜",
+							"child_color": ""
+						}, {
+							"child_type": "床尾凳",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "床头柜",
+							"child_color": ""
+						}, {
+							"child_type": "实木床头柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "田园床头柜",
+							"child_color": ""
+						}, {
+							"child_type": "拉门衣柜",
+							"child_color": ""
+						}
+					]
+				}
+				
+			]
+		},
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "餐桌类",
+					"childRight": [
+						{
+							"child_type": "长餐桌",
+							"child_color": "childColor"
+						}, {
+							"child_type": "圆餐桌",
+							"child_color": ""
+						}, {
+							"child_type": "折叠餐桌",
+							"child_color": "childColor"
+						}, {
+							"child_type": "大理石餐桌",
+							"child_color": ""
+						}, {
+							"child_type": "实木餐桌",
+							"child_color": ""
+						}, {
+							"child_type": "玻璃餐桌",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "餐椅类",
+					"childRight": [
+						{
+							"child_type": "扶手餐椅",
+							"child_color": "childColor"
+						}, {
+							"child_type": "欧式餐椅",
+							"child_color": ""
+						}, {
+							"child_type": "美式餐椅",
+							"child_color": ""
+						}, {
+							"child_type": "田园餐椅",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "餐边柜类",
+					"childRight": [
+						{
+							"child_type": "田园餐边柜",
+							"child_color": ""
+						}, {
+							"child_type": "美式餐边柜",
+							"child_color": ""
+						}, {
+							"child_type": "实木餐边柜",
+							"child_color": "childColor"
+						}
+					]
+				},{
+					"child_left": "更多分类",
+					"childRight": [
+						{
+							"child_type": "餐厅套装",
+							"child_color": ""
+						}, {
+							"child_type": "餐桌椅组合",
+							"child_color": "childColor"
+						}, {
+							"child_type": "地中海餐桌椅",
+							"child_color": ""
+						}, {
+							"child_type": "欧式餐桌椅",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "木木原",
+							"child_color": ""
+						}, {
+							"child_type": "韩木居",
+							"child_color": "childColor"
+						}, {
+							"child_type": "宜华",
+							"child_color": ""
+						}, {
+							"child_type": "里斯卡•美尔",
+							"child_color": "childColor"
+						}
+					]
+				}
+				
+			]
+		},
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "书桌/工作台",
+					"childRight": [
+						{
+							"child_type": "实木书桌",
+							"child_color": "childColor"
+						}, {
+							"child_type": "中式书桌",
+							"child_color": ""
+						}, {
+							"child_type": "田园书桌",
+							"child_color": ""
+						}, {
+							"child_type": "办公桌",
+							"child_color": ""
+						}, {
+							"child_type": "学生书桌",
+							"child_color": "childColor"
+						}, {
+							"child_type": "书房套装",
+							"child_color": ""
+						}, {
+							"child_type": "电脑桌",
+							"child_color": "childColor"
+						}
+					]
+				}, {
+					"child_left": "书柜/书架",
+					"childRight": [
+						{
+							"child_type": "三门书柜",
+							"child_color": ""
+						}, {
+							"child_type": "四门书柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "韩式书柜",
+							"child_color": ""
+						}, {
+							"child_type": "欧式书柜",
+							"child_color": ""
+						},{
+							"child_type": "转角书柜",
+							"child_color": ""
+						},{
+							"child_type": "书柜书架",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "书椅/转椅",
+					"childRight": [
+						{
+							"child_type": "书房转椅",
+							"child_color": ""
+						}, {
+							"child_type": "电脑椅",
+							"child_color": ""
+						}, {
+							"child_type": "田园书椅",
+							"child_color": ""
+						}, {
+							"child_type": "办公转椅",
+							"child_color": "childColor"
+						}
+					]
+				},{
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "青春城堡",
+							"child_color": "childColor"
+						}, {
+							"child_type": "小童舍",
+							"child_color": ""
+						}, {
+							"child_type": "木彩",
+							"child_color": ""
+						}, {
+							"child_type": "卡乐多",
+							"child_color": ""
+						}
+					]
+				}
+				
+			]
+		},
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "儿童家具",
+					"childRight": [
+						{
+							"child_type": "实木儿童床",
+							"child_color": ""
+						}, {
+							"child_type": "田园儿童床",
+							"child_color": "childColor"
+						}, {
+							"child_type": "上下床",
+							"child_color": ""
+						}, {
+							"child_type": "高低床",
+							"child_color": "childColor"
+						}, {
+							"child_type": "儿童多功能床",
+							"child_color": ""
+						}, {
+							"child_type": "双层床",
+							"child_color": ""
+						}, {
+							"child_type": "童床",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "儿童床垫",
+					"childRight": [
+						{
+							"child_type": "儿童棕垫",
+							"child_color": "childColor"
+						}, {
+							"child_type": "弹簧床垫",
+							"child_color": ""
+						}, {
+							"child_type": "乳胶垫",
+							"child_color": ""
+						}, {
+							"child_type": "单人床垫",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "儿童柜类",
+					"childRight": [
+						{
+							"child_type": "儿童床头柜",
+							"child_color": ""
+						}, {
+							"child_type": "儿童衣柜",
+							"child_color": "childColor"
+						}, {
+							"child_type": "儿童书柜",
+							"child_color": ""
+						}, {
+							"child_type": "多用柜",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "儿童桌/椅",
+					"childRight": [
+						{
+							"child_type": "儿童书台",
+							"child_color": "childColor"
+						}, {
+							"child_type": "儿童桌",
+							"child_color": ""
+						}, {
+							"child_type": "学生桌",
+							"child_color": ""
+						}, {
+							"child_type": "儿童转椅",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "小童舍",
+							"child_color": ""
+						}, {
+							"child_type": "青春城堡",
+							"child_color": ""
+						}, {
+							"child_type": "卡乐多",
+							"child_color": "childColor"
+						}, {
+							"child_type": "恒逸",
+							"child_color": ""
+						}
+					]
+				}
+				
+			]
+		},
+		{
+			"shopppingChildArr": [
+				{
+					"child_left": "户外桌/椅",
+					"childRight": [
+						{
+							"child_type": "阳台家具",
+							"child_color": ""
+						}, {
+							"child_type": "户外休闲家具",
+							"child_color": ""
+						}, {
+							"child_type": "户外椅",
+							"child_color": "childColor"
+						}, {
+							"child_type": "休闲椅",
+							"child_color": ""
+						}, {
+							"child_type": "藤桌椅",
+							"child_color": ""
+						}, {
+							"child_type": "摇椅",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "户外套装",
+					"childRight": [
+						{
+							"child_type": "休闲套装",
+							"child_color": "childColor"
+						}, {
+							"child_type": "户外桌椅",
+							"child_color": ""
+						}, {
+							"child_type": "花园家具",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "办公沙发",
+					"childRight": [
+						{
+							"child_type": "办公沙发",
+							"child_color": ""
+						}, {
+							"child_type": "皮艺沙发",
+							"child_color": "childColor"
+						}, {
+							"child_type": "布艺沙发",
+							"child_color": ""
+						}
+					]
+				}, {
+					"child_left": "办公桌/椅",
+					"childRight": [
+						{
+							"child_type": "办公桌",
+							"child_color": "childColor"
+						}, {
+							"child_type": "大班台",
+							"child_color": ""
+						}, {
+							"child_type": "会议椅",
+							"child_color": ""
+						}, {
+							"child_type": "大班椅",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "更多分类",
+					"childRight": [
+						{
+							"child_type": "吊篮/吊椅",
+							"child_color": "childColor"
+						}, {
+							"child_type": "折叠床",
+							"child_color": ""
+						}, {
+							"child_type": "秋千",
+							"child_color": ""
+						}, {
+							"child_type": "文件柜",
+							"child_color": ""
+						}
+					]
+				},{
+					"child_left": "推荐品牌",
+					"childRight": [
+						{
+							"child_type": "瑞仕达",
+							"child_color": "childColor"
+						}, {
+							"child_type": "雅客集",
+							"child_color": ""
+						}, {
+							"child_type": "筑梦人家",
+							"child_color": ""
+						}, {
+							"child_type": "HAOBIN",
+							"child_color": ""
+						}
+					]
+				}
+				
+			]
+		}
+	]
+}

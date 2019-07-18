@@ -1,0 +1,25 @@
+{
+    "code": "0000",
+    "toast": "",
+    "new_recommend_count_str": "",
+    "newFirst": [
+        {
+            "img_url": "//img001.mllres.com/images/201905/1557077895895616469.jpg",
+            "news_name": "北美鹅掌楸木经典款床",
+            "news_conent": "新品到.立即前往>>",
+            "new_pri":""
+        },
+        {
+            "img_url": "//img004.mllres.com/images/201904/1554657352103062701.jpg",
+            "news_name": "优质白椿木沙发套装",
+            "news_conent": "4件7.5折",
+            "new_pri":"￥16917"
+        },
+        {
+            "img_url": "//img002.mllres.com/images/201905/1558894291826074729.jpg",
+            "news_name": "尊贵手工描金餐厅套装",
+            "news_conent": "立省2186",
+            "new_pri":"￥7909"
+        }
+    ]
+}

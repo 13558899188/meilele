@@ -1,0 +1,89 @@
+{
+	
+	"jiajuData":{
+		"leftArr": {
+					"left_title1": "时尚现代",
+					"left_title2": "MODERN",
+					"myImg": "http://img002.mllres.com/images/201607/1467310571346905454.jpg",
+					"jiajuType": [{
+						"txt": "现代床",
+						"myColor": "brown"
+					}, {
+						"txt": "现代床垫",
+						"myColor": "brown"
+					}, {
+						"txt": "现代沙发",
+						"myColor": ""
+					}, {
+						"txt": "现代餐桌",
+						"myColor": "green"
+					}, {
+						"txt": "现代书桌",
+						"myColor": "brown"
+					}, {
+						"txt": "现代衣柜",
+						"myColor": ""
+					}, {
+						"txt": "现代茶几",
+						"myColor": "brown"
+					}, {
+						"txt": "现代电视柜",
+						"myColor": "red"
+					}]
+				},
+				"CenterArr": {
+					"bannerCon": [{
+						"bannerImg": "http://img004.mllres.com/images/201708/1504143455954270461.jpg",
+						"BImgTit": "小户休闲风百变沙发",
+						"BImgTxt": "轻柔麻布超透气 ",
+						"BImgPrice": "2599"
+					}, {
+						"bannerImg": "http://img003.mllres.com/images/201801/1515608685822405646.jpg",
+						"BImgTit": "高性价比时尚真皮床",
+						"BImgTxt": "惊爆价2199",
+						"BImgPrice": "2799"
+					}, {
+						"bannerImg": "http://image.meilele.com/images/201901/1548291470453331232.jpg",
+						"BImgTit": "偶像级头层皮软床",
+						"BImgTxt": "超值省500 ",
+						"BImgPrice": "2799"
+					}]
+				},
+				"rightMsg": {
+					"rightImg": "http://img002.mllres.com/images/201612/1480627344956482163.jpg",
+					"rightTit": "格调灰•头枕可调绒布沙发",
+					"rightSheng": "省700",
+					"rightPrice": "2199"
+				},
+				"smallImgArr": [{
+						"smallImg": "http://img001.mllres.com/images/201903/1551393486897094998.jpg",
+						"smallTit": "森林童话实木双人床",
+						"smallShengqian": "省200",
+						"smallPrice": 2199
+				},
+				{
+						"smallImg": "http://img001.mllres.com/images/201903/1551393486897094998.jpg",
+						"smallTit": "森林童话实木双人床",
+						"smallShengqian": "省200",
+						"smallPrice": 2199
+				},
+				{
+						"smallImg": "http://img001.mllres.com/images/201903/1551393486897094998.jpg",
+						"smallTit": "森林童话实木双人床",
+						"smallShengqian": "省200",
+						"smallPrice": 2199
+				},
+				{
+						"smallImg": "http://img001.mllres.com/images/201903/1551393486897094998.jpg",
+						"smallTit": "森林童话实木双人床",
+						"smallShengqian": "省200",
+						"smallPrice": 2199
+					}
+
+				]
+	
+	}
+
+
+
+}
